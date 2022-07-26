@@ -1,6 +1,6 @@
-# CycAI Home challenge
+# Web IDE challenge
 
-This project was created with purpose to take a home challenge by CycAI
+This project was created with purpose to take a challenge to make a simple IDE on web application.
 
 ## Requirement
 
